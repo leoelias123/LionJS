@@ -1,0 +1,16 @@
+{
+	"name": "LionJS",
+	"version": "0.0.1",
+	"description": "API Rest template",
+	"main": "server.js",	
+	"dependencies": {
+		"express": "latest",
+		"mongoose": "latest",
+		"bcrypt": "latest",
+		"body-parser": "latest",
+		"jwt-simple": "latest",
+		"morgan": "latest",
+		"passport": "latest",
+		"passport-jwt": "latest"
+	}
+}
